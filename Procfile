@@ -1,0 +1,1 @@
+web : sh setup.sh && streamlit run "simple ML (classification) - penguins app.py"
