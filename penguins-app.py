@@ -8,7 +8,7 @@ st.write("""
 # Penguin Prediction APP
 
 This app predict the **Palmer Penguin** species!
-
+Classified using a random forest model.
 
 Data obtained from the [palmerpenguins library](http://github.com/allisonhorst/palmerpenguins) in R by Allison Horst.
 """)
